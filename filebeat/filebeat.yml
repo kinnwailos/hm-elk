@@ -1,0 +1,17 @@
+filebeat.inputs:
+- type: log
+  enabled: true
+  paths:
+    - /var/log/nginx/access.log
+
+output.elasticsearch:
+  hosts: ["http://elasticsearch:9200"]
+
+# Для задачи 4 Filebeat отправляет напрямую в Elasticsearch.
+#output.logstash:
+#  hosts: ["logstash:5044"]
+
+setup.kibana:
+  host: "kibana:5601"
+
+logging.level: info
