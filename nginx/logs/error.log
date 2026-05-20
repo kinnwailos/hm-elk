@@ -78,3 +78,21 @@
 2026/05/16 09:36:38 [notice] 1#1: signal 17 (SIGCHLD) received from 30
 2026/05/16 09:36:38 [notice] 1#1: worker process 30 exited with code 0
 2026/05/16 09:36:38 [notice] 1#1: exit
+2026/05/20 04:11:55 [notice] 1#1: using the "epoll" event method
+2026/05/20 04:11:55 [notice] 1#1: nginx/1.31.0
+2026/05/20 04:11:55 [notice] 1#1: built by gcc 15.2.0 (Alpine 15.2.0) 
+2026/05/20 04:11:55 [notice] 1#1: OS: Linux 6.17.0-23-generic
+2026/05/20 04:11:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2026/05/20 04:11:55 [notice] 1#1: start worker processes
+2026/05/20 04:11:55 [notice] 1#1: start worker process 21
+2026/05/20 04:11:55 [notice] 1#1: start worker process 22
+2026/05/20 04:11:55 [notice] 1#1: start worker process 23
+2026/05/20 04:11:55 [notice] 1#1: start worker process 24
+2026/05/20 04:11:55 [notice] 1#1: start worker process 25
+2026/05/20 04:11:55 [notice] 1#1: start worker process 26
+2026/05/20 04:11:55 [notice] 1#1: start worker process 27
+2026/05/20 04:11:55 [notice] 1#1: start worker process 28
+2026/05/20 04:11:55 [notice] 1#1: start worker process 29
+2026/05/20 04:11:55 [notice] 1#1: start worker process 30
+2026/05/20 04:11:55 [notice] 1#1: start worker process 31
+2026/05/20 04:11:55 [notice] 1#1: start worker process 32
